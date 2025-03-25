@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+}
+
+header{
+    background-color: paleturquoise;
+    text-align: center;
+    height: 100px;
+    padding-top: 30px;
+}
+
+main{
+    padding-top: 20px;
+    padding-left: 20px;
+    background-color: rgb(203, 203, 229);
+    height: 500px;
+    width: 75%;
+    float: left;
+}
+
+.mew{
+    margin-top: 20px;
+    width: 15%;
+    margin-bottom: 10px;
+}
+
+.foto2{
+    width: 30%;
+}
+
+.logo{
+    padding-top: 20px;
+    padding: 20px;
+    width: 100px;
+}
+
+hr{
+    width: 90%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+aside{
+    height: 500px;
+    width: 23%;
+    float: right;
+    padding-top: 20px;
+}
+
+footer{
+    background-color: rgb(87, 84, 102);
+    height: 150px;
+    margin-top: 520px;
+}
